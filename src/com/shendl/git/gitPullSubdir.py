@@ -13,7 +13,7 @@ It defines classes_and_methods
 
 @license:    license
 
-@contact:    shendl1978@icloud.com
+@contact:    81279901@qq.com
 @deffield    updated: Updated
 '''
 
